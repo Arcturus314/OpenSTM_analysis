@@ -1,0 +1,5900 @@
+UI init complete
+Calibrating Zero Current
+Calibrated zero-current to -25268.00pA
+Startup Complete
+Starting Approach
+54068
+54057
+54063
+54071
+54063
+54061
+54064
+54073
+54062
+54062
+54069
+54073
+54063
+54067
+54076
+54062
+54064
+54074
+54069
+54063
+54066
+54073
+54069
+54061
+54072
+54070
+54062
+54068
+54070
+54063
+54066
+54065
+54074
+54065
+54062
+54072
+54054
+54046
+54051
+54064
+54045
+54050
+54068
+54053
+54054
+54054
+54062
+54066
+54053
+54064
+54070
+54064
+54052
+54068
+54067
+54059
+54067
+53764
+50821
+43113
+27836
+28839
+27825
+27879
+27836
+27835
+27847
+27847
+27845
+27842
+27848
+27838
+27846
+27849
+27843
+27844
+27844
+27846
+27842
+27849
+27843
+27842
+27846
+27846
+27845
+27843
+27847
+27843
+27846
+27846
+27845
+27844
+27845
+27846
+27844
+27846
+UI init complete
+Calibrating Zero Current
+Calibrated zero-current to 2578.00pA
+Startup Complete
+Starting Approach
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+approach step, currentRaw=0 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-10 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=9 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=30 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-39 current=-1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=2 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=29 current=-3
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-15 current=-1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-16 current=-2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=7 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=43 current=7
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-37 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=1 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=22 current=-4
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-11 current=-7
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-25 current=-1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=5 current=4
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=45 current=6
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-25 current=7
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-7 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=8 current=1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=45 current=9
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-28 current=4
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-6 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=8 current=1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=45 current=9
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+exceeded bounds!
+found current -82
+Approach complete
+Dumping approach data...
+2,-3400
+4,-3300
+-3,-3200
+-2,-3100
+2,-3000
+2,-2900
+0,-2800
+1,-2700
+0,-2600
+-5,-2500
+0,-2400
+4,-2300
+-3,-2200
+-10,-2100
+3,-2000
+4,-1900
+-4,-1800
+-1,-1700
+2,-1600
+2,-1500
+0,-1400
+2,-1300
+0,-1200
+-5,-1100
+0,-1000
+3,-900
+-4,-800
+-10,-700
+5,-600
+3,-500
+-4,-400
+-1,-300
+3,-200
+2,-100
+0,0
+2,100
+0,200
+-5,300
+0,400
+3,500
+-6,600
+-8,700
+6,800
+2,900
+-4,1000
+0,1100
+3,1200
+2,1300
+0,1400
+2,1500
+-1,1600
+-5,1700
+0,1800
+2,1900
+-7,2000
+-6,2100
+7,2200
+2,2300
+-3,2400
+0,2500
+3,2600
+2,2700
+1,2800
+2,2900
+-2,3000
+-5,3100
+0,3200
+2,3300
+-9,3400
+-4,3500
+7,3600
+1,3700
+-3,3800
+1,3900
+3,4000
+2,4100
+1,4200
+1,4300
+-3,4400
+-4,4500
+1,4600
+1,4700
+-9,4800
+-2,4900
+8,5000
+0,5100
+-3,5200
+1,5300
+3,5400
+1,5500
+1,5600
+1,5700
+-4,5800
+-4,5900
+1,6000
+0,6100
+-10,6200
+0,6300
+7,6400
+-1,6500
+-2,6600
+1,6700
+2,6800
+1,6900
+0,7000
+0,7100
+-5,7200
+-3,7300
+2,7400
+0,7500
+-9,7600
+1,7700
+7,7800
+-1,7900
+-2,8000
+2,8100
+3,8200
+1,8300
+1,8400
+0,8500
+-6,8600
+-3,8700
+2,8800
+-1,8900
+-9,9000
+4,9100
+7,9200
+-2,9300
+-1,9400
+2,9500
+2,9600
+0,9700
+1,9800
+0,9900
+-6,10000
+-1,10100
+3,10200
+-2,10300
+-8,10400
+6,10500
+5,10600
+-3,10700
+-1,10800
+2,10900
+1,11000
+0,11100
+1,11200
+-1,11300
+-6,11400
+0,11500
+3,11600
+-3,11700
+-7,11800
+7,11900
+5,12000
+-3,12100
+0,12200
+2,12300
+1,12400
+0,12500
+1,12600
+-1,12700
+-6,12800
+0,12900
+3,13000
+-5,13100
+-6,13200
+8,13300
+4,13400
+-3,13500
+0,13600
+2,13700
+1,13800
+0,13900
+1,14000
+-2,14100
+-5,14200
+1,14300
+4,14400
+-6,14500
+-4,14600
+8,14700
+2,14800
+-4,14900
+0,15000
+1,15100
+0,15200
+0,15300
+0,15400
+-3,15500
+-5,15600
+1,15700
+3,15800
+-7,15900
+-2,16000
+9,16100
+1,16200
+-4,16300
+0,16400
+1,16500
+0,16600
+-1,16700
+0,16800
+-4,16900
+-4,17000
+3,17100
+3,17200
+-7,17300
+0,17400
+8,17500
+0,17600
+-3,17700
+0,17800
+1,17900
+-1,18000
+-1,18100
+0,18200
+-5,18300
+-3,18400
+3,18500
+2,18600
+-7,18700
+1,18800
+8,18900
+0,19000
+-3,19100
+0,19200
+0,19300
+-1,19400
+-1,19500
+-1,19600
+-6,19700
+-2,19800
+4,19900
+2,20000
+-7,20100
+3,20200
+8,20300
+-1,20400
+-3,20500
+0,20600
+0,20700
+-1,20800
+-1,20900
+-1,21000
+-6,21100
+0,21200
+5,21300
+1,21400
+-7,21500
+6,21600
+7,21700
+-2,21800
+-2,21900
+0,22000
+0,22100
+-2,22200
+0,22300
+-1,22400
+-6,22500
+0,22600
+6,22700
+0,22800
+-7,22900
+7,23000
+6,23100
+-2,23200
+-2,23300
+0,23400
+-1,23500
+-3,23600
+-1,23700
+-2,23800
+-5,23900
+1,24000
+6,24100
+-1,24200
+-6,24300
+8,24400
+5,24500
+-3,24600
+-1,24700
+0,24800
+-1,24900
+-3,25000
+-1,25100
+-3,25200
+-5,25300
+2,25400
+6,25500
+-3,25600
+-4,25700
+9,25800
+4,25900
+-3,26000
+0,26100
+0,26200
+-1,26300
+-3,26400
+-1,26500
+-3,26600
+-5,26700
+3,26800
+6,26900
+-4,27000
+-2,27100
+10,27200
+3,27300
+-4,27400
+0,27500
+0,27600
+-2,27700
+-3,27800
+-1,27900
+-4,28000
+-4,28100
+3,28200
+6,28300
+-5,28400
+0,28500
+10,28600
+2,28700
+-3,28800
+0,28900
+0,29000
+-3,29100
+-4,29200
+-1,29300
+-5,29400
+-4,29500
+4,29600
+5,29700
+-6,29800
+1,29900
+10,30000
+1,30100
+-3,30200
+0,30300
+0,30400
+-2,30500
+-3,30600
+-2,30700
+-6,30800
+-3,30900
+4,31000
+3,31100
+-6,31200
+2,31300
+9,31400
+0,31500
+-2,31600
+0,31700
+0,31800
+-2,31900
+-2,32000
+-1,32100
+-6,32200
+-1,32300
+5,32400
+2,32500
+-7,32600
+4,32700
+9,32800
+0,-32700
+1,-32600
+5,-32500
+-2,-32400
+-5,-32300
+7,-32200
+3,-32100
+-5,-32000
+-2,-31900
+0,-31800
+-1,-31700
+-2,-31600
+0,-31500
+-1,-31400
+-3,-31300
+4,-31200
+6,-31100
+-5,-31000
+-4,-30900
+8,-30800
+1,-30700
+-4,-30600
+-1,-30500
+0,-30400
+-1,-30300
+-2,-30200
+0,-30100
+-1,-30000
+-2,-29900
+4,-29800
+5,-29700
+-6,-29600
+-3,-29500
+8,-29400
+0,-29300
+-4,-29200
+-1,-29100
+0,-29000
+-1,-28900
+-2,-28800
+1,-28700
+-1,-28600
+-1,-28500
+5,-28400
+4,-28300
+-8,-28200
+-1,-28100
+8,-28000
+0,-27900
+-4,-27800
+0,-27700
+0,-27600
+-2,-27500
+-2,-27400
+0,-27300
+-2,-27200
+0,-27100
+6,-27000
+3,-26900
+-8,-26800
+0,-26700
+7,-26600
+-1,-26500
+-4,-26400
+-1,-26300
+0,-26200
+-2,-26100
+-1,-26000
+1,-25900
+-2,-25800
+0,-25700
+6,-25600
+2,-25500
+-9,-25400
+2,-25300
+6,-25200
+-2,-25100
+-4,-25000
+-1,-24900
+-1,-24800
+-3,-24700
+0,-24600
+1,-24500
+-2,-24400
+2,-24300
+7,-24200
+1,-24100
+-8,-24000
+4,-23900
+6,-23800
+-3,-23700
+-4,-23600
+-1,-23500
+-1,-23400
+-3,-23300
+0,-23200
+0,-23100
+-3,-23000
+2,-22900
+6,-22800
+0,-22700
+-9,-22600
+5,-22500
+4,-22400
+-4,-22300
+-3,-22200
+0,-22100
+-1,-22000
+-2,-21900
+0,-21800
+0,-21700
+-2,-21600
+3,-21500
+6,-21400
+-2,-21300
+-8,-21200
+6,-21100
+3,-21000
+-4,-20900
+-3,-20800
+0,-20700
+-1,-20600
+-2,-20500
+1,-20400
+1,-20300
+-2,-20200
+3,-20100
+6,-20000
+-5,-19900
+-7,-19800
+6,-19700
+2,-19600
+-4,-19500
+-1,-19400
+0,-19300
+-1,-19200
+-2,-19100
+1,-19000
+0,-18900
+-2,-18800
+3,-18700
+5,-18600
+-7,-18500
+-6,-18400
+7,-18300
+1,-18200
+-4,-18100
+0,-18000
+0,-17900
+0,-17800
+-1,-17700
+1,-17600
+0,-17500
+-1,-17400
+5,-17300
+4,-17200
+-8,-17100
+-4,-17000
+6,-16900
+0,-16800
+-4,-16700
+0,-16600
+0,-16500
+0,-16400
+0,-16300
+1,-16200
+-1,-16100
+0,-16000
+5,-15900
+3,-15800
+-9,-15700
+-3,-15600
+6,-15500
+0,-15400
+-4,-15300
+0,-15200
+0,-15100
+-1,-15000
+0,-14900
+2,-14800
+-1,-14700
+0,-14600
+5,-14500
+2,-14400
+-10,-14300
+0,-14200
+6,-14100
+-1,-14000
+-3,-13900
+0,-13800
+0,-13700
+-1,-13600
+0,-13500
+2,-13400
+-2,-13300
+1,-13200
+5,-13100
+1,-13000
+-10,-12900
+1,-12800
+6,-12700
+-2,-12600
+-3,-12500
+0,-12400
+0,-12300
+-1,-12200
+0,-12100
+1,-12000
+-3,-11900
+1,-11800
+5,-11700
+0,-11600
+-10,-11500
+3,-11400
+5,-11300
+-4,-11200
+-3,-11100
+0,-11000
+0,-10900
+-1,-10800
+1,-10700
+1,-10600
+-3,-10500
+1,-10400
+5,-10300
+-2,-10200
+-10,-10100
+4,-10000
+4,-9900
+-4,-9800
+-2,-9700
+0,-9600
+0,-9500
+-1,-9400
+2,-9300
+1,-9200
+-3,-9100
+2,-9000
+5,-8900
+-4,-8800
+-8,-8700
+6,-8600
+3,-8500
+-4,-8400
+-1,-8300
+0,-8200
+0,-8100
+-1,-8000
+2,-7900
+0,-7800
+-3,-7700
+2,-7600
+4,-7500
+-6,-7400
+-8,-7300
+6,-7200
+2,-7100
+-4,-7000
+-1,-6900
+1,-6800
+0,-6700
+-1,-6600
+2,-6500
+0,-6400
+-2,-6300
+4,-6200
+4,-6100
+-7,-6000
+-6,-5900
+6,-5800
+1,-5700
+-5,-5600
+-1,-5500
+0,-5400
+0,-5300
+0,-5200
+2,-5100
+0,-5000
+-1,-4900
+4,-4800
+4,-4700
+-8,-4600
+-4,-4500
+6,-4400
+0,-4300
+-4,-4200
+0,-4100
+1,-4000
+0,-3900
+0,-3800
+2,-3700
+-1,-3600
+-1,-3500
+5,-3400
+3,-3300
+-9,-3200
+-2,-3100
+6,-3000
+-1,-2900
+-4,-2800
+0,-2700
+1,-2600
+0,-2500
+0,-2400
+2,-2300
+-2,-2200
+0,-2100
+5,-2000
+2,-1900
+-10,-1800
+0,-1700
+5,-1600
+-2,-1500
+-4,-1400
+0,-1300
+1,-1200
+0,-1100
+0,-1000
+1,-900
+-3,-800
+0,-700
+5,-600
+1,-500
+-10,-400
+1,-300
+5,-200
+-3,-100
+-3,0
+0,100
+1,200
+0,300
+0,400
+0,500
+-4,600
+1,700
+6,800
+0,900
+-9,1000
+3,1100
+5,1200
+-4,1300
+-3,1400
+0,1500
+0,1600
+-1,1700
+1,1800
+0,1900
+-4,2000
+1,2100
+5,2200
+-1,2300
+-9,2400
+5,2500
+4,2600
+-5,2700
+-3,2800
+0,2900
+0,3000
+-1,3100
+1,3200
+0,3300
+-4,3400
+2,3500
+6,3600
+-2,3700
+-7,3800
+7,3900
+3,4000
+-5,4100
+-2,4200
+0,4300
+0,4400
+-1,4500
+1,4600
+-1,4700
+-4,4800
+2,4900
+6,5000
+-4,5100
+-5,5200
+8,5300
+2,5400
+-5,5500
+-1,5600
+1,5700
+0,5800
+-1,5900
+1,6000
+-2,6100
+-4,6200
+3,6300
+5,6400
+-5,6500
+-4,6600
+7,6700
+0,6800
+-5,6900
+-1,7000
+1,7100
+0,7200
+0,7300
+0,7400
+-3,7500
+-3,7600
+4,7700
+5,7800
+-6,7900
+-2,8000
+7,8100
+-1,8200
+-6,8300
+-1,8400
+0,8500
+0,8600
+0,8700
+0,8800
+-3,8900
+-2,9000
+5,9100
+5,9200
+-7,9300
+0,9400
+7,9500
+-2,9600
+-6,9700
+-1,9800
+0,9900
+0,10000
+0,10100
+0,10200
+-3,10300
+-1,10400
+5,10500
+3,10600
+-7,10700
+1,10800
+6,10900
+-3,11000
+-5,11100
+0,11200
+1,11300
+0,11400
+0,11500
+0,11600
+-4,11700
+0,11800
+5,11900
+2,12000
+-8,12100
+3,12200
+5,12300
+-4,12400
+-5,12500
+0,12600
+0,12700
+0,12800
+0,12900
+0,13000
+-5,13100
+1,13200
+6,13300
+1,13400
+-7,13500
+5,13600
+4,13700
+-5,13800
+-4,13900
+0,14000
+0,14100
+0,14200
+1,14300
+0,14400
+-5,14500
+1,14600
+6,14700
+0,14800
+-7,14900
+5,15000
+2,15100
+-6,15200
+-3,15300
+0,15400
+0,15500
+0,15600
+1,15700
+-1,15800
+-5,15900
+1,16000
+6,16100
+-2,16200
+-6,16300
+7,16400
+2,16500
+-6,16600
+-2,16700
+1,16800
+0,16900
+0,17000
+1,17100
+-2,17200
+-5,17300
+2,17400
+6,17500
+-3,17600
+-5,17700
+7,17800
+0,17900
+-6,18000
+-2,18100
+1,18200
+0,18300
+0,18400
+1,18500
+-2,18600
+-4,18700
+3,18800
+6,18900
+-5,19000
+-3,19100
+7,19200
+0,19300
+-6,19400
+-1,19500
+1,19600
+1,19700
+0,19800
+1,19900
+-3,20000
+-4,20100
+3,20200
+5,20300
+-6,20400
+-1,20500
+7,20600
+-1,20700
+-6,20800
+0,20900
+2,21000
+1,21100
+0,21200
+1,21300
+-3,21400
+-3,21500
+4,21600
+4,21700
+-7,21800
+0,21900
+6,22000
+-2,22100
+-5,22200
+0,22300
+2,22400
+1,22500
+0,22600
+0,22700
+-5,22800
+-2,22900
+4,23000
+2,23100
+-8,23200
+1,23300
+6,23400
+-3,23500
+-5,23600
+0,23700
+1,23800
+0,23900
+0,24000
+0,24100
+-5,24200
+-1,24300
+5,24400
+2,24500
+-8,24600
+3,24700
+4,24800
+-4,24900
+-4,25000
+0,25100
+2,25200
+0,25300
+1,25400
+0,25500
+-6,25600
+0,25700
+5,25800
+0,25900
+-8,26000
+4,26100
+4,26200
+-5,26300
+-3,26400
+1,26500
+2,26600
+0,26700
+1,26800
+0,26900
+-6,27000
+0,27100
+6,27200
+-1,27300
+-7,27400
+5,27500
+3,27600
+-5,27700
+-2,27800
+2,27900
+2,28000
+0,28100
+1,28200
+-1,28300
+-6,28400
+0,28500
+5,28600
+-3,28700
+-7,28800
+6,28900
+2,29000
+-5,29100
+-1,29200
+2,29300
+2,29400
+0,29500
+1,29600
+-2,29700
+-6,29800
+1,29900
+5,30000
+-5,30100
+-5,30200
+7,30300
+1,30400
+-4,30500
+4,30600
+145,30700
+375,30762
+662,30681
+scanning in 2D
+scanning x-axis,y-axis
+Start:0,0
+End:2000,2000
+0|0
+exceeded bounds!
+Scan failed with error
+-1
+Finished scan, returned with code -1
+UI init complete
+Calibrating Zero Current
+Calibrated zero-current to -25243.00pA
+Startup Complete
+Starting Approach
+54063
+54063
+54069
+54059
+54062
+54066
+54064
+54062
+54070
+54062
+54058
+54071
+54060
+54061
+54067
+54065
+54057
+54068
+54065
+54060
+54068
+54062
+54062
+54071
+54061
+54061
+54075
+54060
+54058
+54073
+54063
+54058
+54069
+54064
+54065
+54064
+54060
+54065
+54067
+54056
+54067
+54070
+54057
+54062
+54066
+54061
+54068
+54067
+54061
+54063
+54069
+54063
+54064
+54067
+54063
+54065
+54065
+54061
+54069
+54065
+54063
+54066
+54065
+54064
+54066
+54063
+54068
+54064
+54062
+54070
+54061
+54063
+54064
+54065
+54067
+54059
+54064
+54068
+54062
+54064
+54068
+54061
+54065
+54068
+32505
+27813
+31218
+29095
+27797
+27816
+27832
+27818
+27815
+27818
+27831
+27816
+27812
+27831
+27819
+27815
+UI init complete
+Calibrating Zero Current
+Calibrated zero-current to 2578.00pA
+Startup Complete
+Starting Approach
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+approach step, currentRaw=0 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=42 current=6
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-24 current=7
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-10 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=7 current=1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=44 current=8
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-28 current=6
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-3 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=10 current=2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=33 current=5
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-36 current=3
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=0 current=0
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=15 current=-2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=10 current=-5
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-37 current=-3
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=1 current=1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=21 current=-2
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-3 current=-7
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-34 current=-4
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=2 current=1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=26 current=-1
+exceeded bounds!
+exceeded bounds!
+approach step, currentRaw=-8 current=-7
+exceeded bounds!
+found current 360
+Approach complete
+Dumping approach data...
+0,-14000
+3,-13900
+3,-13800
+0,-13700
+-1,-13600
+0,-13500
+-5,-13400
+0,-13300
+5,-13200
+0,-13100
+-10,-13000
+1,-12900
+5,-12800
+-1,-12700
+0,-12600
+3,-12500
+2,-12400
+-1,-12300
+-1,-12200
+-1,-12100
+-5,-12000
+0,-11900
+5,-11800
+0,-11700
+-9,-11600
+2,-11500
+5,-11400
+-2,-11300
+0,-11200
+3,-11100
+1,-11000
+-1,-10900
+-1,-10800
+-2,-10700
+-5,-10600
+1,-10500
+6,-10400
+-1,-10300
+-9,-10200
+4,-10100
+4,-10000
+-2,-9900
+0,-9800
+3,-9700
+1,-9600
+-1,-9500
+-1,-9400
+-2,-9300
+-4,-9200
+2,-9100
+5,-9000
+-4,-8900
+-8,-8800
+5,-8700
+3,-8600
+-2,-8500
+1,-8400
+4,-8300
+0,-8200
+-2,-8100
+-1,-8000
+-2,-7900
+-4,-7800
+3,-7700
+6,-7600
+-4,-7500
+-7,-7400
+6,-7300
+3,-7200
+-2,-7100
+1,-7000
+3,-6900
+0,-6800
+-2,-6700
+-1,-6600
+-3,-6500
+-4,-6400
+4,-6300
+6,-6200
+-6,-6100
+-5,-6000
+6,-5900
+1,-5800
+-3,-5700
+1,-5600
+2,-5500
+0,-5400
+-2,-5300
+-1,-5200
+-3,-5100
+-3,-5000
+4,-4900
+5,-4800
+-7,-4700
+-4,-4600
+7,-4500
+0,-4400
+-2,-4300
+1,-4200
+2,-4100
+0,-4000
+-2,-3900
+0,-3800
+-3,-3700
+-1,-3600
+6,-3500
+5,-3400
+-7,-3300
+-1,-3200
+7,-3100
+0,-3000
+-2,-2900
+1,-2800
+1,-2700
+-1,-2600
+-2,-2500
+-1,-2400
+-3,-2300
+0,-2200
+7,-2100
+4,-2000
+-8,-1900
+0,-1800
+5,-1700
+-2,-1600
+-2,-1500
+1,-1400
+0,-1300
+-2,-1200
+-2,-1100
+0,-1000
+-3,-900
+2,-800
+8,-700
+3,-600
+-8,-500
+1,-400
+4,-300
+-3,-200
+-2,-100
+1,0
+0,100
+-2,200
+-1,300
+0,400
+-3,500
+2,600
+8,700
+1,800
+-9,900
+2,1000
+4,1100
+-3,1200
+-1,1300
+2,1400
+0,1500
+-2,1600
+0,1700
+0,1800
+-3,1900
+3,2000
+8,2100
+0,2200
+-9,2300
+3,2400
+2,2500
+-4,2600
+-1,2700
+1,2800
+0,2900
+-2,3000
+0,3100
+0,3200
+-2,3300
+4,3400
+7,3500
+-2,3600
+-8,3700
+4,3800
+1,3900
+-5,4000
+0,4100
+1,4200
+0,4300
+-2,4400
+0,4500
+-1,4600
+-2,4700
+4,4800
+7,4900
+-4,5000
+-7,5100
+5,5200
+1,5300
+-4,5400
+0,5500
+1,5600
+0,5700
+-2,5800
+0,5900
+0,6000
+-1,6100
+5,6200
+7,6300
+-5,6400
+-6,6500
+5,6600
+0,6700
+-5,6800
+0,6900
+1,7000
+0,7100
+-1,7200
+0,7300
+-1,7400
+-1,7500
+6,7600
+6,7700
+-6,7800
+-4,7900
+5,8000
+-1,8100
+-5,8200
+0,8300
+1,8400
+0,8500
+-1,8600
+0,8700
+-1,8800
+0,8900
+6,9000
+5,9100
+-7,9200
+-2,9300
+5,9400
+-2,9500
+-4,9600
+0,9700
+1,9800
+-1,9900
+0,10000
+0,10100
+-2,10200
+0,10300
+7,10400
+4,10500
+-8,10600
+0,10700
+4,10800
+-3,10900
+-4,11000
+0,11100
+1,11200
+0,11300
+0,11400
+0,11500
+-2,11600
+1,11700
+6,11800
+2,11900
+-9,12000
+0,12100
+3,12200
+-4,12300
+-3,12400
+0,12500
+1,12600
+0,12700
+0,12800
+0,12900
+-3,13000
+2,13100
+6,13200
+0,13300
+-9,13400
+2,13500
+3,13600
+-4,13700
+-3,13800
+1,13900
+0,14000
+-1,14100
+0,14200
+0,14300
+-3,14400
+2,14500
+6,14600
+-1,14700
+-8,14800
+4,14900
+3,15000
+-4,15100
+-2,15200
+1,15300
+0,15400
+-1,15500
+0,15600
+0,15700
+-3,15800
+3,15900
+7,16000
+-2,16100
+-7,16200
+6,16300
+2,16400
+-5,16500
+-2,16600
+0,16700
+0,16800
+-1,16900
+0,17000
+0,17100
+-3,17200
+3,17300
+6,17400
+-3,17500
+-5,17600
+6,17700
+1,17800
+-5,17900
+-1,18000
+0,18100
+0,18200
+-1,18300
+1,18400
+-1,18500
+-3,18600
+3,18700
+5,18800
+-5,18900
+-4,19000
+7,19100
+1,19200
+-4,19300
+-1,19400
+0,19500
+0,19600
+-1,19700
+0,19800
+-2,19900
+-3,20000
+4,20100
+5,20200
+-6,20300
+-2,20400
+8,20500
+0,20600
+-4,20700
+-1,20800
+0,20900
+0,21000
+-1,21100
+0,21200
+-2,21300
+-2,21400
+4,21500
+4,21600
+-6,21700
+0,21800
+8,21900
+0,22000
+-3,22100
+0,22200
+0,22300
+-1,22400
+-1,22500
+0,22600
+-3,22700
+-1,22800
+4,22900
+3,23000
+-7,23100
+1,23200
+7,23300
+-1,23400
+-3,23500
+0,23600
+0,23700
+0,23800
+0,23900
+0,24000
+-4,24100
+0,24200
+5,24300
+2,24400
+-7,24500
+3,24600
+7,24700
+-2,24800
+-3,24900
+0,25000
+0,25100
+-1,25200
+0,25300
+0,25400
+-5,25500
+0,25600
+5,25700
+1,25800
+-6,25900
+5,26000
+6,26100
+-3,26200
+-3,26300
+0,26400
+0,26500
+-1,26600
+0,26700
+0,26800
+-5,26900
+0,27000
+4,27100
+-1,27200
+-7,27300
+6,27400
+5,27500
+-3,27600
+-2,27700
+0,27800
+0,27900
+0,28000
+0,28100
+-1,28200
+-5,28300
+0,28400
+4,28500
+-2,28600
+-6,28700
+8,28800
+5,28900
+-3,29000
+-1,29100
+1,29200
+0,29300
+0,29400
+1,29500
+-1,29600
+-6,29700
+0,29800
+3,29900
+-4,30000
+-5,30100
+8,30200
+4,30300
+-3,30400
+0,30500
+1,30600
+1,30700
+0,30800
+2,30900
+-1,31000
+-5,31100
+0,31200
+3,31300
+-6,31400
+-3,31500
+8,31600
+3,31700
+-3,31800
+0,31900
+2,32000
+1,32100
+0,32200
+2,32300
+-2,32400
+-4,32500
+1,32600
+2,32700
+-7,32800
+0,-32700
+-1,-32600
+-5,-32500
+-1,-32400
+5,-32300
+2,-32200
+-7,-32100
+1,-32000
+6,-31900
+-2,-31800
+-3,-31700
+0,-31600
+1,-31500
+0,-31400
+0,-31300
+0,-31200
+-5,-31100
+0,-31000
+4,-30900
+1,-30800
+-8,-30700
+3,-30600
+5,-30500
+-3,-30400
+-3,-30300
+0,-30200
+0,-30100
+0,-30000
+1,-29900
+0,-29800
+-5,-29700
+0,-29600
+4,-29500
+0,-29400
+-7,-29300
+5,-29200
+4,-29100
+-4,-29000
+-3,-28900
+0,-28800
+1,-28700
+0,-28600
+2,-28500
+0,-28400
+-4,-28300
+0,-28200
+5,-28100
+0,-28000
+-6,-27900
+6,-27800
+4,-27700
+-5,-27600
+-3,-27500
+0,-27400
+0,-27300
+0,-27200
+1,-27100
+-1,-27000
+-5,-26900
+0,-26800
+5,-26700
+-2,-26600
+-5,-26500
+7,-26400
+2,-26300
+-5,-26200
+-2,-26100
+0,-26000
+1,-25900
+0,-25800
+2,-25700
+-1,-25600
+-4,-25500
+1,-25400
+4,-25300
+-4,-25200
+-4,-25100
+8,-25000
+2,-24900
+-5,-24800
+-1,-24700
+1,-24600
+1,-24500
+0,-24400
+2,-24300
+-2,-24200
+-5,-24100
+1,-24000
+4,-23900
+-6,-23800
+-2,-23700
+8,-23600
+1,-23500
+-4,-23400
+0,-23300
+1,-23200
+0,-23100
+0,-23000
+2,-22900
+-2,-22800
+-4,-22700
+2,-22600
+3,-22500
+-7,-22400
+-1,-22300
+7,-22200
+0,-22100
+-4,-22000
+0,-21900
+1,-21800
+0,-21700
+0,-21600
+1,-21500
+-3,-21400
+-3,-21300
+2,-21200
+2,-21100
+-8,-21000
+0,-20900
+7,-20800
+0,-20700
+-3,-20600
+0,-20500
+1,-20400
+0,-20300
+0,-20200
+1,-20100
+-3,-20000
+-2,-19900
+3,-19800
+1,-19700
+-8,-19600
+1,-19500
+7,-19400
+-1,-19300
+-3,-19200
+0,-19100
+1,-19000
+0,-18900
+1,-18800
+1,-18700
+-4,-18600
+-1,-18500
+3,-18400
+0,-18300
+-9,-18200
+3,-18100
+6,-18000
+-2,-17900
+-2,-17800
+1,-17700
+1,-17600
+0,-17500
+1,-17400
+0,-17300
+-5,-17200
+-1,-17100
+3,-17000
+-1,-16900
+-9,-16800
+3,-16700
+5,-16600
+-3,-16500
+-2,-16400
+1,-16300
+1,-16200
+0,-16100
+2,-16000
+0,-15900
+-4,-15800
+0,-15700
+4,-15600
+-3,-15500
+-9,-15400
+5,-15300
+4,-15200
+-4,-15100
+-1,-15000
+1,-14900
+1,-14800
+0,-14700
+3,-14600
+0,-14500
+-4,-14400
+1,-14300
+3,-14200
+-4,-14100
+-8,-14000
+5,-13900
+2,-13800
+-4,-13700
+-1,-13600
+1,-13500
+1,-13400
+0,-13300
+2,-13200
+0,-13100
+-4,-13000
+1,-12900
+4,-12800
+-6,-12700
+-6,-12600
+6,-12500
+2,-12400
+-4,-12300
+-1,-12200
+1,-12100
+0,-12000
+0,-11900
+2,-11800
+0,-11700
+-3,-11600
+2,-11500
+3,-11400
+-7,-11300
+-4,-11200
+7,-11100
+1,-11000
+-4,-10900
+0,-10800
+1,-10700
+0,-10600
+0,-10500
+1,-10400
+-2,-10300
+-3,-10200
+3,-10100
+3,-10000
+-8,-9900
+-3,-9800
+7,-9700
+0,-9600
+-3,-9500
+0,-9400
+2,-9300
+0,-9200
+0,-9100
+1,-9000
+-2,-8900
+-2,-8800
+4,-8700
+3,-8600
+-8,-8500
+-1,-8400
+6,-8300
+0,-8200
+-3,-8100
+1,-8000
+2,-7900
+0,-7800
+0,-7700
+0,-7600
+-3,-7500
+-1,-7400
+4,-7300
+1,-7200
+-9,-7100
+0,-7000
+6,-6900
+-1,-6800
+-2,-6700
+1,-6600
+2,-6500
+0,-6400
+0,-6300
+0,-6200
+-4,-6100
+0,-6000
+4,-5900
+0,-5800
+-9,-5700
+1,-5600
+5,-5500
+-2,-5400
+-2,-5300
+1,-5200
+2,-5100
+0,-5000
+0,-4900
+0,-4800
+-4,-4700
+0,-4600
+4,-4500
+0,-4400
+-9,-4300
+4,-4200
+4,-4100
+-3,-4000
+-1,-3900
+2,-3800
+2,-3700
+0,-3600
+0,-3500
+0,-3400
+-5,-3300
+0,-3200
+4,-3100
+-2,-3000
+-8,-2900
+5,-2800
+4,-2700
+-3,-2600
+0,-2500
+2,-2400
+2,-2300
+0,-2200
+1,-2100
+-1,-2000
+-5,-1900
+0,-1800
+4,-1700
+-4,-1600
+-8,-1500
+6,-1400
+3,-1300
+-3,-1200
+0,-1100
+2,-1000
+2,-900
+0,-800
+1,-700
+-1,-600
+-5,-500
+1,-400
+3,-300
+-6,-200
+-7,-100
+6,0
+2,100
+-3,200
+0,300
+3,400
+2,500
+0,600
+2,700
+-1,800
+-4,900
+1,1000
+3,1100
+-7,1200
+-5,1300
+6,1400
+1,1500
+-3,1600
+1,1700
+3,1800
+2,1900
+0,2000
+2,2100
+-2,2200
+-3,2300
+2,2400
+2,2500
+-8,2600
+-3,2700
+6,2800
+0,2900
+-3,3000
+0,3100
+2,3200
+1,3300
+0,3400
+1,3500
+-2,3600
+-2,3700
+2,3800
+2,3900
+-9,4000
+-1,4100
+7,4200
+0,4300
+-3,4400
+0,4500
+2,4600
+0,4700
+0,4800
+1,4900
+-3,5000
+-2,5100
+3,5200
+2,5300
+-9,5400
+0,5500
+6,5600
+-1,5700
+-3,5800
+1,5900
+2,6000
+0,6100
+0,6200
+0,6300
+-4,6400
+0,6500
+4,6600
+0,6700
+-9,6800
+2,6900
+5,7000
+-2,7100
+-2,7200
+1,7300
+1,7400
+0,7500
+0,7600
+0,7700
+-4,7800
+0,7900
+4,8000
+0,8100
+-8,8200
+4,8300
+6,8400
+-2,8500
+-2,8600
+1,8700
+1,8800
+0,8900
+1,9000
+0,9100
+-4,9200
+0,9300
+4,9400
+-2,9500
+-8,9600
+5,9700
+5,9800
+-3,9900
+-1,10000
+1,10100
+0,10200
+0,10300
+1,10400
+0,10500
+-5,10600
+0,10700
+4,10800
+-4,10900
+-8,11000
+6,11100
+4,11200
+-2,11300
+0,11400
+2,11500
+0,11600
+0,11700
+0,11800
+-1,11900
+-5,12000
+1,12100
+3,12200
+-6,12300
+-6,12400
+7,12500
+3,12600
+-2,12700
+0,12800
+2,12900
+0,13000
+0,13100
+1,13200
+-2,13300
+-4,13400
+1,13500
+3,13600
+-7,13700
+-4,13800
+8,13900
+3,14000
+-2,14100
+1,14200
+2,14300
+0,14400
+-1,14500
+0,14600
+-2,14700
+-4,14800
+2,14900
+3,15000
+-8,15100
+-3,15200
+8,15300
+1,15400
+-2,15500
+1,15600
+2,15700
+0,15800
+0,15900
+0,16000
+-3,16100
+-3,16200
+2,16300
+2,16400
+-8,16500
+-1,16600
+8,16700
+0,16800
+-1,16900
+2,17000
+1,17100
+0,17200
+0,17300
+0,17400
+-4,17500
+-2,17600
+3,17700
+1,17800
+-9,17900
+0,18000
+7,18100
+0,18200
+-1,18300
+2,18400
+2,18500
+0,18600
+0,18700
+0,18800
+-4,18900
+-1,19000
+3,19100
+0,19200
+-10,19300
+1,19400
+6,19500
+0,19600
+0,19700
+2,19800
+2,19900
+0,20000
+0,20100
+23,20200
+789,20100
+scanning in 2D
+scanning x-axis,y-axis
+Start:0,0
+End:2000,2000
+0|0
+50|0
+100|0
+150|0
+200|0
+250|0
+300|0
+350|0
+400|0
+450|0
+500|0
+550|0
+600|0
+650|0
+700|0
+750|0
+800|0
+850|0
+900|0
+950|0
+1000|0
+1050|0
+1100|0
+1150|0
+1200|0
+1250|0
+1300|0
+1350|0
+1400|0
+1450|0
+1500|0
+1550|0
+1600|0
+1650|0
+1700|0
+1750|0
+1800|0
+1850|0
+1900|0
+1950|0
+2000|50
+1950|50
+1900|50
+1850|50
+1800|50
+1750|50
+1700|50
+1650|50
+1600|50
+1550|50
+1500|50
+1450|50
+1400|50
+1350|50
+1300|50
+1250|50
+1200|50
+1150|50
+1100|50
+1050|50
+1000|50
+950|50
+900|50
+850|50
+800|50
+750|50
+700|50
+650|50
+600|50
+550|50
+500|50
+450|50
+400|50
+350|50
+300|50
+250|50
+200|50
+150|50
+100|50
+50|50
+0|100
+50|100
+100|100
+150|100
+200|100
+250|100
+300|100
+350|100
+400|100
+450|100
+500|100
+550|100
+600|100
+650|100
+700|100
+750|100
+800|100
+850|100
+900|100
+950|100
+1000|100
+1050|100
+1100|100
+1150|100
+1200|100
+1250|100
+1300|100
+1350|100
+1400|100
+1450|100
+1500|100
+1550|100
+1600|100
+1650|100
+1700|100
+1750|100
+1800|100
+1850|100
+1900|100
+1950|100
+2000|150
+1950|150
+1900|150
+1850|150
+1800|150
+1750|150
+1700|150
+1650|150
+1600|150
+1550|150
+1500|150
+1450|150
+1400|150
+1350|150
+1300|150
+1250|150
+1200|150
+1150|150
+1100|150
+1050|150
+1000|150
+950|150
+900|150
+850|150
+800|150
+750|150
+700|150
+650|150
+600|150
+550|150
+500|150
+450|150
+400|150
+350|150
+300|150
+250|150
+200|150
+150|150
+100|150
+50|150
+0|200
+50|200
+100|200
+150|200
+200|200
+250|200
+300|200
+350|200
+400|200
+450|200
+500|200
+550|200
+600|200
+650|200
+700|200
+750|200
+800|200
+850|200
+900|200
+950|200
+1000|200
+1050|200
+1100|200
+1150|200
+1200|200
+1250|200
+1300|200
+1350|200
+1400|200
+1450|200
+1500|200
+1550|200
+1600|200
+1650|200
+1700|200
+1750|200
+1800|200
+1850|200
+1900|200
+1950|200
+2000|250
+1950|250
+1900|250
+1850|250
+1800|250
+1750|250
+1700|250
+1650|250
+1600|250
+1550|250
+1500|250
+1450|250
+1400|250
+1350|250
+1300|250
+1250|250
+1200|250
+1150|250
+1100|250
+1050|250
+1000|250
+950|250
+900|250
+850|250
+800|250
+750|250
+700|250
+650|250
+600|250
+550|250
+500|250
+450|250
+400|250
+350|250
+300|250
+250|250
+200|250
+150|250
+100|250
+50|250
+0|300
+50|300
+100|300
+150|300
+200|300
+250|300
+300|300
+350|300
+400|300
+450|300
+500|300
+550|300
+600|300
+650|300
+700|300
+750|300
+800|300
+850|300
+900|300
+950|300
+1000|300
+1050|300
+1100|300
+1150|300
+1200|300
+1250|300
+1300|300
+1350|300
+1400|300
+1450|300
+1500|300
+1550|300
+1600|300
+1650|300
+1700|300
+1750|300
+1800|300
+1850|300
+1900|300
+1950|300
+2000|350
+1950|350
+1900|350
+1850|350
+1800|350
+1750|350
+1700|350
+1650|350
+1600|350
+1550|350
+1500|350
+1450|350
+1400|350
+1350|350
+1300|350
+1250|350
+1200|350
+1150|350
+1100|350
+1050|350
+1000|350
+950|350
+900|350
+850|350
+800|350
+750|350
+700|350
+650|350
+600|350
+550|350
+500|350
+450|350
+400|350
+350|350
+300|350
+250|350
+200|350
+150|350
+100|350
+50|350
+0|400
+50|400
+100|400
+150|400
+200|400
+250|400
+300|400
+350|400
+400|400
+450|400
+500|400
+550|400
+600|400
+650|400
+700|400
+750|400
+800|400
+850|400
+900|400
+950|400
+1000|400
+1050|400
+1100|400
+1150|400
+1200|400
+1250|400
+1300|400
+1350|400
+1400|400
+1450|400
+1500|400
+1550|400
+1600|400
+1650|400
+1700|400
+1750|400
+1800|400
+1850|400
+1900|400
+1950|400
+2000|450
+1950|450
+1900|450
+1850|450
+1800|450
+1750|450
+1700|450
+1650|450
+1600|450
+1550|450
+1500|450
+1450|450
+1400|450
+1350|450
+1300|450
+1250|450
+1200|450
+1150|450
+1100|450
+1050|450
+1000|450
+950|450
+900|450
+850|450
+800|450
+750|450
+700|450
+650|450
+600|450
+550|450
+500|450
+450|450
+400|450
+350|450
+300|450
+250|450
+200|450
+150|450
+100|450
+50|450
+0|500
+50|500
+100|500
+150|500
+200|500
+250|500
+300|500
+350|500
+400|500
+450|500
+500|500
+550|500
+600|500
+650|500
+700|500
+750|500
+800|500
+850|500
+900|500
+950|500
+1000|500
+1050|500
+1100|500
+1150|500
+1200|500
+1250|500
+1300|500
+1350|500
+1400|500
+1450|500
+1500|500
+1550|500
+1600|500
+1650|500
+1700|500
+1750|500
+1800|500
+1850|500
+1900|500
+1950|500
+2000|550
+1950|550
+1900|550
+1850|550
+1800|550
+1750|550
+1700|550
+1650|550
+1600|550
+1550|550
+1500|550
+1450|550
+1400|550
+1350|550
+1300|550
+1250|550
+1200|550
+1150|550
+1100|550
+1050|550
+1000|550
+950|550
+900|550
+850|550
+800|550
+750|550
+700|550
+650|550
+600|550
+550|550
+500|550
+450|550
+400|550
+350|550
+300|550
+250|550
+200|550
+150|550
+100|550
+50|550
+0|600
+50|600
+100|600
+150|600
+200|600
+250|600
+300|600
+350|600
+400|600
+450|600
+500|600
+550|600
+600|600
+650|600
+700|600
+750|600
+800|600
+850|600
+900|600
+950|600
+1000|600
+1050|600
+1100|600
+1150|600
+1200|600
+1250|600
+1300|600
+1350|600
+1400|600
+1450|600
+1500|600
+1550|600
+1600|600
+1650|600
+1700|600
+1750|600
+1800|600
+1850|600
+1900|600
+1950|600
+2000|650
+1950|650
+1900|650
+1850|650
+1800|650
+1750|650
+1700|650
+1650|650
+1600|650
+1550|650
+1500|650
+1450|650
+1400|650
+1350|650
+1300|650
+1250|650
+1200|650
+1150|650
+1100|650
+1050|650
+1000|650
+950|650
+900|650
+850|650
+800|650
+750|650
+700|650
+650|650
+600|650
+550|650
+500|650
+450|650
+400|650
+350|650
+300|650
+250|650
+200|650
+150|650
+100|650
+50|650
+0|700
+50|700
+100|700
+150|700
+200|700
+250|700
+300|700
+350|700
+400|700
+450|700
+500|700
+550|700
+600|700
+650|700
+700|700
+750|700
+800|700
+850|700
+900|700
+950|700
+1000|700
+1050|700
+1100|700
+1150|700
+1200|700
+1250|700
+1300|700
+1350|700
+1400|700
+1450|700
+1500|700
+1550|700
+1600|700
+1650|700
+1700|700
+1750|700
+1800|700
+1850|700
+1900|700
+1950|700
+2000|750
+1950|750
+1900|750
+1850|750
+1800|750
+1750|750
+1700|750
+1650|750
+1600|750
+1550|750
+1500|750
+1450|750
+1400|750
+1350|750
+1300|750
+1250|750
+1200|750
+1150|750
+1100|750
+1050|750
+1000|750
+950|750
+900|750
+850|750
+800|750
+750|750
+700|750
+650|750
+600|750
+550|750
+500|750
+450|750
+400|750
+350|750
+300|750
+250|750
+200|750
+150|750
+100|750
+50|750
+0|800
+50|800
+100|800
+150|800
+200|800
+250|800
+300|800
+350|800
+400|800
+450|800
+500|800
+550|800
+600|800
+650|800
+700|800
+750|800
+800|800
+850|800
+900|800
+950|800
+1000|800
+1050|800
+1100|800
+1150|800
+1200|800
+1250|800
+1300|800
+1350|800
+1400|800
+1450|800
+1500|800
+1550|800
+1600|800
+1650|800
+1700|800
+1750|800
+1800|800
+1850|800
+1900|800
+1950|800
+2000|850
+1950|850
+1900|850
+1850|850
+1800|850
+1750|850
+1700|850
+1650|850
+1600|850
+1550|850
+1500|850
+1450|850
+1400|850
+1350|850
+1300|850
+1250|850
+1200|850
+1150|850
+1100|850
+1050|850
+1000|850
+950|850
+900|850
+850|850
+800|850
+750|850
+700|850
+650|850
+600|850
+550|850
+500|850
+450|850
+400|850
+350|850
+300|850
+250|850
+200|850
+150|850
+100|850
+50|850
+0|900
+50|900
+100|900
+150|900
+200|900
+250|900
+300|900
+350|900
+400|900
+450|900
+500|900
+550|900
+600|900
+650|900
+700|900
+750|900
+800|900
+850|900
+900|900
+950|900
+1000|900
+1050|900
+1100|900
+1150|900
+1200|900
+1250|900
+1300|900
+1350|900
+1400|900
+1450|900
+1500|900
+1550|900
+1600|900
+1650|900
+1700|900
+1750|900
+1800|900
+1850|900
+1900|900
+1950|900
+2000|950
+1950|950
+1900|950
+1850|950
+1800|950
+1750|950
+1700|950
+1650|950
+1600|950
+1550|950
+1500|950
+1450|950
+1400|950
+1350|950
+1300|950
+1250|950
+1200|950
+1150|950
+1100|950
+1050|950
+1000|950
+950|950
+900|950
+850|950
+800|950
+750|950
+700|950
+650|950
+600|950
+550|950
+500|950
+450|950
+400|950
+350|950
+300|950
+250|950
+200|950
+150|950
+100|950
+50|950
+0|1000
+50|1000
+100|1000
+150|1000
+200|1000
+250|1000
+300|1000
+350|1000
+400|1000
+450|1000
+500|1000
+550|1000
+600|1000
+650|1000
+700|1000
+750|1000
+800|1000
+850|1000
+900|1000
+950|1000
+1000|1000
+1050|1000
+1100|1000
+1150|1000
+1200|1000
+1250|1000
+1300|1000
+1350|1000
+1400|1000
+1450|1000
+1500|1000
+1550|1000
+1600|1000
+1650|1000
+1700|1000
+1750|1000
+1800|1000
+1850|1000
+1900|1000
+1950|1000
+2000|1050
+1950|1050
+1900|1050
+1850|1050
+1800|1050
+1750|1050
+1700|1050
+1650|1050
+1600|1050
+1550|1050
+1500|1050
+1450|1050
+1400|1050
+1350|1050
+1300|1050
+1250|1050
+1200|1050
+1150|1050
+1100|1050
+1050|1050
+1000|1050
+950|1050
+900|1050
+850|1050
+800|1050
+750|1050
+700|1050
+650|1050
+600|1050
+550|1050
+500|1050
+450|1050
+400|1050
+350|1050
+300|1050
+250|1050
+200|1050
+150|1050
+100|1050
+50|1050
+0|1100
+50|1100
+100|1100
+150|1100
+200|1100
+250|1100
+300|1100
+350|1100
+400|1100
+450|1100
+500|1100
+550|1100
+600|1100
+650|1100
+700|1100
+750|1100
+800|1100
+850|1100
+900|1100
+950|1100
+1000|1100
+1050|1100
+1100|1100
+1150|1100
+1200|1100
+1250|1100
+1300|1100
+1350|1100
+1400|1100
+1450|1100
+1500|1100
+1550|1100
+1600|1100
+1650|1100
+1700|1100
+1750|1100
+1800|1100
+1850|1100
+1900|1100
+1950|1100
+2000|1150
+1950|1150
+1900|1150
+1850|1150
+1800|1150
+1750|1150
+1700|1150
+1650|1150
+1600|1150
+1550|1150
+1500|1150
+1450|1150
+1400|1150
+1350|1150
+1300|1150
+1250|1150
+1200|1150
+1150|1150
+1100|1150
+1050|1150
+1000|1150
+950|1150
+900|1150
+850|1150
+800|1150
+750|1150
+700|1150
+650|1150
+600|1150
+550|1150
+500|1150
+450|1150
+400|1150
+350|1150
+300|1150
+250|1150
+200|1150
+150|1150
+100|1150
+50|1150
+0|1200
+50|1200
+100|1200
+150|1200
+200|1200
+250|1200
+300|1200
+350|1200
+400|1200
+450|1200
+500|1200
+550|1200
+600|1200
+650|1200
+700|1200
+750|1200
+800|1200
+850|1200
+900|1200
+950|1200
+1000|1200
+1050|1200
+1100|1200
+1150|1200
+1200|1200
+1250|1200
+1300|1200
+1350|1200
+1400|1200
+1450|1200
+1500|1200
+1550|1200
+1600|1200
+1650|1200
+1700|1200
+1750|1200
+1800|1200
+1850|1200
+1900|1200
+1950|1200
+2000|1250
+1950|1250
+1900|1250
+1850|1250
+1800|1250
+1750|1250
+1700|1250
+1650|1250
+1600|1250
+1550|1250
+1500|1250
+1450|1250
+1400|1250
+1350|1250
+1300|1250
+1250|1250
+1200|1250
+1150|1250
+1100|1250
+1050|1250
+1000|1250
+950|1250
+900|1250
+850|1250
+800|1250
+750|1250
+700|1250
+650|1250
+600|1250
+550|1250
+500|1250
+450|1250
+400|1250
+350|1250
+300|1250
+250|1250
+200|1250
+150|1250
+100|1250
+50|1250
+0|1300
+50|1300
+100|1300
+150|1300
+200|1300
+250|1300
+300|1300
+350|1300
+400|1300
+450|1300
+500|1300
+550|1300
+600|1300
+650|1300
+700|1300
+750|1300
+800|1300
+850|1300
+900|1300
+950|1300
+1000|1300
+1050|1300
+1100|1300
+1150|1300
+1200|1300
+1250|1300
+1300|1300
+1350|1300
+1400|1300
+1450|1300
+1500|1300
+1550|1300
+1600|1300
+1650|1300
+1700|1300
+1750|1300
+1800|1300
+1850|1300
+1900|1300
+1950|1300
+2000|1350
+1950|1350
+1900|1350
+1850|1350
+1800|1350
+1750|1350
+1700|1350
+1650|1350
+1600|1350
+1550|1350
+1500|1350
+1450|1350
+1400|1350
+1350|1350
+1300|1350
+1250|1350
+1200|1350
+1150|1350
+1100|1350
+1050|1350
+1000|1350
+950|1350
+900|1350
+850|1350
+800|1350
+750|1350
+700|1350
+650|1350
+600|1350
+550|1350
+500|1350
+450|1350
+400|1350
+350|1350
+300|1350
+250|1350
+200|1350
+150|1350
+100|1350
+50|1350
+0|1400
+50|1400
+100|1400
+150|1400
+200|1400
+250|1400
+300|1400
+350|1400
+400|1400
+450|1400
+500|1400
+550|1400
+600|1400
+650|1400
+700|1400
+750|1400
+800|1400
+850|1400
+900|1400
+950|1400
+1000|1400
+1050|1400
+1100|1400
+1150|1400
+1200|1400
+1250|1400
+1300|1400
+1350|1400
+1400|1400
+1450|1400
+1500|1400
+1550|1400
+1600|1400
+1650|1400
+1700|1400
+1750|1400
+1800|1400
+1850|1400
+1900|1400
+1950|1400
+2000|1450
+1950|1450
+1900|1450
+1850|1450
+1800|1450
+1750|1450
+1700|1450
+1650|1450
+1600|1450
+1550|1450
+1500|1450
+1450|1450
+1400|1450
+1350|1450
+1300|1450
+1250|1450
+1200|1450
+1150|1450
+1100|1450
+1050|1450
+1000|1450
+950|1450
+900|1450
+850|1450
+800|1450
+750|1450
+700|1450
+650|1450
+600|1450
+550|1450
+500|1450
+450|1450
+400|1450
+350|1450
+300|1450
+250|1450
+200|1450
+150|1450
+100|1450
+50|1450
+0|1500
+50|1500
+100|1500
+150|1500
+200|1500
+250|1500
+300|1500
+350|1500
+400|1500
+450|1500
+500|1500
+550|1500
+600|1500
+650|1500
+700|1500
+750|1500
+800|1500
+850|1500
+900|1500
+950|1500
+1000|1500
+1050|1500
+1100|1500
+1150|1500
+1200|1500
+1250|1500
+1300|1500
+1350|1500
+1400|1500
+1450|1500
+1500|1500
+1550|1500
+1600|1500
+1650|1500
+1700|1500
+1750|1500
+1800|1500
+1850|1500
+1900|1500
+1950|1500
+2000|1550
+1950|1550
+1900|1550
+1850|1550
+1800|1550
+1750|1550
+1700|1550
+1650|1550
+1600|1550
+1550|1550
+1500|1550
+1450|1550
+1400|1550
+1350|1550
+1300|1550
+1250|1550
+1200|1550
+1150|1550
+1100|1550
+1050|1550
+1000|1550
+950|1550
+900|1550
+850|1550
+800|1550
+750|1550
+700|1550
+650|1550
+600|1550
+550|1550
+500|1550
+450|1550
+400|1550
+350|1550
+300|1550
+250|1550
+200|1550
+150|1550
+100|1550
+50|1550
+0|1600
+50|1600
+100|1600
+150|1600
+200|1600
+250|1600
+300|1600
+350|1600
+400|1600
+450|1600
+500|1600
+550|1600
+600|1600
+650|1600
+700|1600
+750|1600
+800|1600
+850|1600
+900|1600
+950|1600
+1000|1600
+1050|1600
+1100|1600
+1150|1600
+1200|1600
+1250|1600
+1300|1600
+1350|1600
+1400|1600
+1450|1600
+1500|1600
+1550|1600
+1600|1600
+1650|1600
+1700|1600
+1750|1600
+1800|1600
+1850|1600
+1900|1600
+1950|1600
+2000|1650
+1950|1650
+1900|1650
+1850|1650
+1800|1650
+1750|1650
+1700|1650
+1650|1650
+1600|1650
+1550|1650
+1500|1650
+1450|1650
+1400|1650
+1350|1650
+1300|1650
+1250|1650
+1200|1650
+1150|1650
+1100|1650
+1050|1650
+1000|1650
+950|1650
+900|1650
+850|1650
+800|1650
+750|1650
+700|1650
+650|1650
+600|1650
+550|1650
+500|1650
+450|1650
+400|1650
+350|1650
+300|1650
+250|1650
+200|1650
+150|1650
+100|1650
+50|1650
+0|1700
+50|1700
+100|1700
+150|1700
+200|1700
+250|1700
+300|1700
+350|1700
+400|1700
+450|1700
+500|1700
+550|1700
+600|1700
+650|1700
+700|1700
+750|1700
+800|1700
+850|1700
+900|1700
+950|1700
+1000|1700
+1050|1700
+1100|1700
+1150|1700
+1200|1700
+1250|1700
+1300|1700
+1350|1700
+1400|1700
+1450|1700
+1500|1700
+1550|1700
+1600|1700
+1650|1700
+1700|1700
+1750|1700
+1800|1700
+1850|1700
+1900|1700
+1950|1700
+2000|1750
+1950|1750
+1900|1750
+1850|1750
+1800|1750
+1750|1750
+1700|1750
+1650|1750
+1600|1750
+1550|1750
+1500|1750
+1450|1750
+1400|1750
+1350|1750
+1300|1750
+1250|1750
+1200|1750
+1150|1750
+1100|1750
+1050|1750
+1000|1750
+950|1750
+900|1750
+850|1750
+800|1750
+750|1750
+700|1750
+650|1750
+600|1750
+550|1750
+500|1750
+450|1750
+400|1750
+350|1750
+300|1750
+250|1750
+200|1750
+150|1750
+100|1750
+50|1750
+0|1800
+50|1800
+100|1800
+150|1800
+200|1800
+250|1800
+300|1800
+350|1800
+400|1800
+450|1800
+500|1800
+550|1800
+600|1800
+650|1800
+700|1800
+750|1800
+800|1800
+850|1800
+900|1800
+950|1800
+1000|1800
+1050|1800
+1100|1800
+1150|1800
+1200|1800
+1250|1800
+1300|1800
+1350|1800
+1400|1800
+1450|1800
+1500|1800
+1550|1800
+1600|1800
+1650|1800
+1700|1800
+1750|1800
+1800|1800
+1850|1800
+1900|1800
+1950|1800
+2000|1850
+1950|1850
+1900|1850
+1850|1850
+1800|1850
+1750|1850
+1700|1850
+1650|1850
+1600|1850
+1550|1850
+1500|1850
+1450|1850
+1400|1850
+1350|1850
+1300|1850
+1250|1850
+1200|1850
+1150|1850
+1100|1850
+1050|1850
+1000|1850
+950|1850
+900|1850
+850|1850
+800|1850
+750|1850
+700|1850
+650|1850
+600|1850
+550|1850
+500|1850
+450|1850
+400|1850
+350|1850
+300|1850
+250|1850
+200|1850
+150|1850
+100|1850
+50|1850
+0|1900
+50|1900
+100|1900
+150|1900
+200|1900
+250|1900
+300|1900
+350|1900
+400|1900
+450|1900
+500|1900
+550|1900
+600|1900
+650|1900
+700|1900
+750|1900
+800|1900
+850|1900
+900|1900
+950|1900
+1000|1900
+1050|1900
+1100|1900
+1150|1900
+1200|1900
+1250|1900
+1300|1900
+1350|1900
+1400|1900
+1450|1900
+1500|1900
+1550|1900
+1600|1900
+1650|1900
+1700|1900
+1750|1900
+1800|1900
+1850|1900
+1900|1900
+1950|1900
+2000|1950
+1950|1950
+1900|1950
+1850|1950
+1800|1950
+1750|1950
+1700|1950
+1650|1950
+1600|1950
+1550|1950
+1500|1950
+1450|1950
+1400|1950
+1350|1950
+1300|1950
+1250|1950
+1200|1950
+1150|1950
+1100|1950
+1050|1950
+1000|1950
+950|1950
+900|1950
+850|1950
+800|1950
+750|1950
+700|1950
+650|1950
+600|1950
+550|1950
+500|1950
+450|1950
+400|1950
+350|1950
+300|1950
+250|1950
+200|1950
+150|1950
+100|1950
+50|1950
+Finished scan, returned with code 0
+Dumping scan output:
+step,x,y,z,current
+0,0,0,17709,-2578
+1,50,0,17809,380
+2,100,0,17869,694
+3,150,0,17772,3139
+4,200,0,17672,2820
+5,250,0,17572,3161
+6,300,0,17472,5017
+7,350,0,17372,3143
+8,400,0,17272,1389
+9,450,0,17172,978
+10,500,0,17072,6264
+11,550,0,16972,6499
+12,600,0,16872,2943
+13,650,0,16772,5267
+14,700,0,16672,2807
+15,750,0,16572,1650
+16,800,0,16472,1239
+17,850,0,16372,4282
+18,900,0,16272,3655
+19,950,0,16172,3167
+20,1000,0,16072,2324
+21,1050,0,15972,1327
+22,1100,0,15872,647
+23,1150,0,15799,163
+24,1200,0,15899,-241
+25,1250,0,15999,-452
+26,1300,0,16099,-265
+27,1350,0,16199,530
+28,1400,0,16184,1023
+29,1450,0,16084,3793
+30,1500,0,15984,16839
+31,1550,0,15884,10920
+32,1600,0,15784,4946
+33,1650,0,15684,2982
+34,1700,0,15584,2353
+35,1750,0,15484,1740
+36,1800,0,15384,923
+37,1850,0,15284,236
+38,1900,0,15384,-1
+39,1950,0,15484,166
+40,2000,50,15584,400
+41,1950,50,15634,305
+42,1900,50,15731,-253
+43,1850,50,15831,-993
+44,1800,50,15931,-1412
+45,1750,50,16031,-1154
+46,1700,50,16131,-265
+47,1650,50,16231,1517
+48,1600,50,16131,19898
+49,1550,50,16031,25673
+50,1500,50,15931,24171
+51,1450,50,15831,16961
+52,1400,50,15731,8085
+53,1350,50,15631,4907
+54,1300,50,15531,3796
+55,1250,50,15431,4554
+56,1200,50,15331,22932
+57,1150,50,15231,21107
+58,1100,50,15131,12371
+59,1050,50,15031,6533
+60,1000,50,14931,4467
+61,950,50,14831,2879
+62,900,50,14731,779
+63,850,50,14631,-1155
+64,800,50,14731,-1800
+65,750,50,14831,-774
+66,700,50,14931,1085
+67,650,50,14831,2332
+68,600,50,14731,2014
+69,550,50,14631,343
+70,500,50,14709,-1487
+71,450,50,14809,-2187
+72,400,50,14909,-1335
+73,350,50,15009,327
+74,300,50,15095,1494
+75,250,50,14995,1314
+76,200,50,14895,5
+77,150,50,14995,-1346
+78,100,50,15095,-1629
+79,50,50,15195,-545
+80,0,100,15295,1105
+81,50,100,15195,2076
+82,100,100,15095,1645
+83,150,100,14995,115
+84,200,100,15095,-1418
+85,250,100,15195,-1879
+86,300,100,15295,-1017
+87,350,100,15395,433
+88,400,100,15428,1332
+89,450,100,15328,1036
+90,500,100,15228,-159
+91,550,100,15328,-1267
+92,600,100,15428,-1370
+93,650,100,15528,-314
+94,700,100,15628,1113
+95,750,100,15528,1840
+96,800,100,15428,1328
+97,850,100,15328,-57
+98,900,100,15428,-1327
+99,950,100,15528,-1597
+100,1000,100,15628,-751
+101,1050,100,15728,496
+102,1100,100,15730,1169
+103,1150,100,15630,794
+104,1200,100,15530,-283
+105,1250,100,15630,-1173
+106,1300,100,15730,-1132
+107,1350,100,15830,-124
+108,1400,100,15930,1095
+109,1450,100,15830,1615
+110,1500,100,15730,1055
+111,1550,100,15630,-185
+112,1600,100,15730,-1222
+113,1650,100,15830,-1341
+114,1700,100,15930,-532
+115,1750,100,16030,526
+116,1800,100,16017,1007
+117,1850,100,15917,583
+118,1900,100,15876,-371
+119,1950,100,15976,-1070
+120,2000,150,16076,-918
+121,1950,150,16176,28
+122,1900,150,16276,1055
+123,1850,150,16176,1403
+124,1800,150,16076,820
+125,1750,150,15976,-276
+126,1700,150,16076,-1108
+127,1650,150,16176,-1110
+128,1600,150,16276,-353
+129,1550,150,16376,529
+130,1500,150,16362,851
+131,1450,150,16262,402
+132,1400,150,16311,-429
+133,1350,150,16411,-960
+134,1300,150,16511,-725
+135,1250,150,16611,147
+136,1200,150,16711,998
+137,1150,150,16611,1204
+138,1100,150,16511,621
+139,1050,150,16451,-335
+140,1000,150,16551,-988
+141,950,150,16651,-904
+142,900,150,16751,-212
+143,850,150,16851,509
+144,800,150,16847,701
+145,750,150,16747,250
+146,700,150,16847,-461
+147,650,150,16947,-846
+148,600,150,17047,-554
+149,550,150,17147,237
+150,500,150,17247,928
+151,450,150,17147,1020
+152,400,150,17047,454
+153,350,150,17070,-367
+154,300,150,17170,-866
+155,250,150,17270,-722
+156,200,150,17370,-103
+157,150,150,17470,472
+158,100,150,17484,560
+159,50,150,17454,124
+160,0,200,17554,-470
+161,50,200,17654,-731
+162,100,200,17754,-403
+163,150,200,17854,300
+164,200,200,17954,848
+165,250,200,17854,851
+166,300,200,17754,316
+167,350,200,17846,-377
+168,400,200,17946,-746
+169,450,200,18046,-563
+170,500,200,18146,-22
+171,550,200,18246,423
+172,600,200,18284,430
+173,650,200,18319,22
+174,700,200,18419,-462
+175,750,200,18519,-618
+176,800,200,18619,-272
+177,850,200,18719,340
+178,900,200,18799,759
+179,950,200,18699,697
+180,1000,200,18601,206
+181,1050,200,18701,-367
+182,1100,200,18801,-626
+183,1150,200,18901,-425
+184,1200,200,19001,34
+185,1250,200,19101,364
+186,1300,200,19169,313
+187,1350,200,19262,13
+188,1400,200,19362,1210
+189,1450,200,19262,3188
+190,1500,200,19162,11221
+191,1550,200,19062,25137
+192,1600,200,18962,22130
+193,1650,200,18862,13657
+194,1700,200,18762,7766
+195,1750,200,18662,4328
+196,1800,200,18562,2491
+197,1850,200,18462,1603
+198,1900,200,18362,1340
+199,1950,200,18262,1503
+200,2000,250,18162,1886
+201,1950,250,18062,3278
+202,1900,250,17962,22912
+203,1850,250,17862,15569
+204,1800,250,17762,8388
+205,1750,250,17662,3857
+206,1700,250,17562,1735
+207,1650,250,17462,1325
+208,1600,250,17362,1510
+209,1550,250,17262,1453
+210,1500,250,17162,1510
+211,1450,250,17062,1782
+212,1400,250,16962,2170
+213,1350,250,16862,2277
+214,1300,250,16762,1691
+215,1250,250,16662,367
+216,1200,250,16728,-1261
+217,1150,250,16828,-2503
+218,1100,250,16928,-2820
+219,1050,250,17028,-2208
+220,1000,250,17128,-1111
+221,950,250,17228,-74
+222,900,250,17328,568
+223,850,250,17294,861
+224,800,250,17194,1087
+225,750,250,17094,1448
+226,700,250,16994,1834
+227,650,250,16894,1890
+228,600,250,16794,1323
+229,550,250,16694,148
+230,500,250,16794,-1230
+231,450,250,16894,-2225
+232,400,250,16994,-2412
+233,350,250,17094,-1837
+234,300,250,17194,-887
+235,250,250,17294,-9
+236,200,250,17394,535
+237,150,250,17377,799
+238,100,250,17277,1013
+239,50,250,17177,1320
+240,0,300,17077,1607
+241,50,300,16977,1580
+242,100,300,16877,1025
+243,150,300,16777,-9
+244,200,300,16877,-1167
+245,250,300,16977,-1959
+246,300,300,17077,-2053
+247,350,300,17177,-1528
+248,400,300,17277,-711
+249,450,300,17377,33
+250,500,300,17477,504
+251,550,300,17475,748
+252,600,300,17375,946
+253,650,300,17275,1197
+254,700,300,17175,1393
+255,750,300,17075,1301
+256,800,300,16975,774
+257,850,300,16875,-125
+258,900,300,16975,-1086
+259,950,300,17075,-1708
+260,1000,300,17175,-1741
+261,1050,300,17275,-1272
+262,1100,300,17375,-574
+263,1150,300,17475,63
+264,1200,300,17575,477
+265,1250,300,17586,706
+266,1300,300,17486,884
+267,1350,300,17386,1077
+268,1400,300,17286,1192
+269,1450,300,17186,1053
+270,1500,300,17086,565
+271,1550,300,17054,-202
+272,1600,300,17154,-990
+273,1650,300,17254,-1475
+274,1700,300,17354,-1470
+275,1750,300,17454,-1063
+276,1800,300,17554,-469
+277,1850,300,17654,83
+278,1900,300,17754,456
+279,1950,300,17776,671
+280,2000,350,17691,823
+281,1950,350,17591,958
+282,1900,350,17491,1002
+283,1850,350,17391,832
+284,1800,350,17291,394
+285,1750,350,17344,-246
+286,1700,350,17444,-885
+287,1650,350,17544,-1261
+288,1600,350,17644,-1238
+289,1550,350,17744,-893
+290,1500,350,17844,-387
+291,1450,350,17944,96
+292,1400,350,18044,437
+293,1350,350,18075,639
+294,1300,350,18006,762
+295,1250,350,17906,841
+296,1200,350,17806,824
+297,1150,350,17706,639
+298,1100,350,17637,258
+299,1050,350,17737,-264
+300,1000,350,17837,-774
+301,950,350,17937,-1065
+302,900,350,18037,-1040
+303,850,350,18137,-755
+304,800,350,18237,-324
+305,750,350,18337,105
+306,700,350,18437,423
+307,650,350,18475,609
+308,600,350,18421,700
+309,550,350,18321,724
+310,500,350,18221,659
+311,450,350,18142,471
+312,400,350,18156,153
+313,350,350,18256,-261
+314,300,350,18356,-662
+315,250,350,18456,-890
+316,200,350,18556,-873
+317,150,350,18656,-643
+318,100,350,18756,-275
+319,50,350,18856,112
+320,0,400,18956,411
+321,50,400,19000,580
+322,100,400,18960,636
+323,150,400,18892,610
+324,200,400,18837,507
+325,250,400,18834,329
+326,300,400,18919,76
+327,350,400,19019,-239
+328,400,400,19119,-550
+329,450,400,19219,-733
+330,500,400,19319,-720
+331,550,400,19419,-512
+332,600,400,19519,-129
+333,650,400,19619,299
+334,700,400,19719,542
+335,750,400,19698,650
+336,800,400,19623,731
+337,850,400,19523,979
+338,900,400,19423,2772
+339,950,400,19323,4220
+340,1000,400,19223,7438
+341,1050,400,19123,9269
+342,1100,400,19023,7732
+343,1150,400,18923,6993
+344,1200,400,18823,5654
+345,1250,400,18723,3605
+346,1300,400,18623,2191
+347,1350,400,18523,1693
+348,1400,400,18423,2553
+349,1450,400,18323,2474
+350,1500,400,18223,1958
+351,1550,400,18123,1351
+352,1600,400,18023,734
+353,1650,400,17923,88
+354,1700,400,18023,-513
+355,1750,400,18123,-606
+356,1800,400,18223,-591
+357,1850,400,18323,185
+358,1900,400,18423,-161
+359,1950,400,18523,-33
+360,2000,450,18623,312
+361,1950,450,18717,669
+362,1900,450,18633,935
+363,1850,450,18533,1049
+364,1800,450,18433,1020
+365,1750,450,18333,819
+366,1700,450,18233,452
+367,1650,450,18257,12
+368,1600,450,18357,-444
+369,1550,450,18457,-535
+370,1500,450,18557,11564
+371,1450,450,18457,23929
+372,1400,450,18357,23576
+373,1350,450,18257,22011
+374,1300,450,18157,25231
+375,1250,450,18057,24850
+376,1200,450,17957,16408
+377,1150,450,17857,12517
+378,1100,450,17757,8518
+379,1050,450,17657,5401
+380,1000,450,17557,4085
+381,950,450,17457,3212
+382,900,450,17357,2478
+383,850,450,17257,933
+384,800,450,17157,-460
+385,750,450,17257,1084
+386,700,450,17157,2864
+387,650,450,17057,3568
+388,600,450,16957,2194
+389,550,450,16857,1387
+390,500,450,16757,2001
+391,450,450,16657,2112
+392,400,450,16557,2234
+393,350,450,16457,2344
+394,300,450,16357,2431
+395,250,450,16257,2351
+396,200,450,16157,1829
+397,150,450,16057,713
+398,100,450,15957,-813
+399,50,450,16057,-2259
+400,0,500,16157,-3103
+401,50,500,16257,-3020
+402,100,500,16357,-2094
+403,150,500,16457,-767
+404,200,500,16557,430
+405,250,500,16592,1228
+406,300,500,16492,1650
+407,350,500,16392,1868
+408,400,500,16292,1998
+409,450,500,16192,1961
+410,500,500,16092,1525
+411,550,500,15992,553
+412,600,500,15966,-768
+413,650,500,16066,-2007
+414,700,500,16166,-2705
+415,750,500,16266,-2506
+416,800,500,16366,-1658
+417,850,500,16466,-437
+418,900,500,16566,871
+419,950,500,16466,1398
+420,1000,500,16366,2058
+421,1050,500,16266,2034
+422,1100,500,16166,1967
+423,1150,500,16066,1894
+424,1200,500,15966,3684
+425,1250,500,15866,14821
+426,1300,500,15766,18284
+427,1350,500,15666,14067
+428,1400,500,15566,5572
+429,1450,500,15466,1975
+430,1500,500,15366,2361
+431,1550,500,15266,2503
+432,1600,500,15166,2105
+433,1650,500,15066,1971
+434,1700,500,14966,2218
+435,1750,500,14866,2636
+436,1800,500,14766,2760
+437,1850,500,14666,2197
+438,1900,500,14566,795
+439,1950,500,14466,-1080
+440,2000,550,14566,-2680
+441,1950,550,14666,-3358
+442,1900,550,14766,-2947
+443,1850,550,14866,-1776
+444,1800,550,14966,-459
+445,1750,550,15066,506
+446,1700,550,15063,1029
+447,1650,550,14963,1346
+448,1600,550,14863,1716
+449,1550,550,14763,2120
+450,1500,550,14663,2257
+451,1450,550,14563,1768
+452,1400,550,14463,551
+453,1350,550,14438,-1048
+454,1300,550,14538,-2370
+455,1250,550,14638,-2883
+456,1200,550,14738,-2472
+457,1150,550,14838,-1433
+458,1100,550,14938,-304
+459,1050,550,15038,502
+460,1000,550,15037,924
+461,950,550,14937,1178
+462,900,550,14837,1481
+463,850,550,14737,1805
+464,800,550,14637,1895
+465,750,550,14537,1442
+466,700,550,14437,378
+467,650,550,14498,-982
+468,600,550,14598,-2072
+469,550,550,14698,-2458
+470,500,550,14798,-2059
+471,450,550,14898,-1146
+472,400,550,14998,-184
+473,350,550,15098,483
+474,300,550,15106,819
+475,250,550,15006,1018
+476,200,550,14906,1261
+477,150,550,14806,1522
+478,100,550,14706,1578
+479,50,550,14606,1171
+480,0,600,14506,251
+481,50,600,14606,-900
+482,100,600,14706,-1792
+483,150,600,14806,-2079
+484,200,600,14906,-1704
+485,250,600,15006,-907
+486,300,600,15106,-93
+487,350,600,15206,454
+488,400,600,15229,715
+489,450,600,15129,865
+490,500,600,15029,1058
+491,550,600,14929,1268
+492,600,600,14829,1305
+493,650,600,14729,948
+494,700,600,14629,161
+495,750,600,14729,-806
+496,800,600,14829,-1533
+497,850,600,14929,-1743
+498,900,600,15029,-1397
+499,950,600,15129,-709
+500,1000,600,15229,-25
+501,1050,600,15329,416
+502,1100,600,15371,612
+503,1150,600,15315,720
+504,1200,600,15215,871
+505,1250,600,15115,1041
+506,1300,600,15015,1071
+507,1350,600,14915,766
+508,1400,600,14815,101
+509,1450,600,14915,-702
+510,1500,600,15015,-1291
+511,1550,600,15115,-1445
+512,1600,600,15215,-1133
+513,1650,600,15315,-545
+514,1700,600,15415,20
+515,1750,600,15515,370
+516,1800,600,15580,510
+517,1850,600,15575,583
+518,1900,600,15534,700
+519,1950,600,15434,842
+520,2000,650,15334,870
+521,1950,650,15234,618
+522,1900,650,15175,65
+523,1850,650,15275,-595
+524,1800,650,15375,-1068
+525,1750,650,15475,-1180
+526,1700,650,15575,-906
+527,1650,650,15675,-411
+528,1600,650,15775,49
+529,1550,650,15875,318
+530,1500,650,15966,411
+531,1450,650,16010,454
+532,1400,650,16033,544
+533,1350,650,16011,665
+534,1300,650,15929,700
+535,1250,650,15829,501
+536,1200,650,15829,49
+537,1150,650,15929,-485
+538,1100,650,16029,-862
+539,1050,650,16129,-944
+540,1000,650,16229,-711
+541,950,650,16329,-303
+542,900,650,16429,62
+543,850,650,16529,260
+544,800,650,16629,313
+545,750,650,16722,333
+546,700,650,16805,402
+547,650,650,16854,510
+548,600,650,16849,556
+549,550,650,16821,408
+550,500,650,16867,49
+551,450,650,16967,-376
+552,400,650,17067,-675
+553,350,650,17167,-737
+554,300,650,17267,-544
+555,250,650,17367,-217
+556,200,650,17467,64
+557,150,650,17567,201
+558,100,650,17667,220
+559,50,650,17767,222
+560,0,700,17867,277
+561,50,700,17967,377
+562,100,700,18028,436
+563,150,700,18060,339
+564,200,700,18140,62
+565,250,700,18240,-267
+566,300,700,18340,-502
+567,350,700,18440,-554
+568,400,700,18540,-404
+569,450,700,18640,-152
+570,500,700,18740,52
+571,550,700,18840,138
+572,600,700,18940,131
+573,650,700,19040,120
+574,700,700,19140,164
+575,750,700,19240,263
+576,800,700,19340,337
+577,850,700,19421,286
+578,900,700,19521,84
+579,950,700,19621,-96
+580,1000,700,19721,6899
+581,1050,700,19621,8349
+582,1100,700,19521,19488
+583,1150,700,19421,13158
+584,1200,700,19321,5978
+585,1250,700,19221,3446
+586,1300,700,19121,7923
+587,1350,700,19021,26204
+588,1400,700,18921,25201
+589,1450,700,18821,19524
+590,1500,700,18721,10113
+591,1550,700,18621,6460
+592,1600,700,18521,4816
+593,1650,700,18421,4408
+594,1700,700,18321,3276
+595,1750,700,18221,574
+596,1800,700,18184,-138
+597,1850,700,18284,537
+598,1900,700,18266,1276
+599,1950,700,18166,1091
+600,2000,750,18066,-132
+601,1950,750,18166,-1592
+602,1900,750,18266,-2218
+603,1850,750,18366,-1461
+604,1800,750,18466,223
+605,1750,750,18566,1724
+606,1700,750,18466,2087
+607,1650,750,18366,1247
+608,1600,750,18266,-41
+609,1550,750,18366,-443
+610,1500,750,18466,6238
+611,1450,750,18366,14862
+612,1400,750,18266,25468
+613,1350,750,18166,24449
+614,1300,750,18066,24401
+615,1250,750,17966,23370
+616,1200,750,17866,23245
+617,1150,750,17766,23502
+618,1100,750,17666,22010
+619,1050,750,17566,18163
+620,1000,750,17466,12565
+621,950,750,17366,10032
+622,900,750,17266,7304
+623,850,750,17166,9333
+624,800,750,17066,24043
+625,750,750,16966,24941
+626,700,750,16866,21108
+627,650,750,16766,21162
+628,600,750,16666,19029
+629,550,750,16566,16402
+630,500,750,16466,8423
+631,450,750,16366,4164
+632,400,750,16266,3755
+633,350,750,16166,4800
+634,300,750,16066,5749
+635,250,750,15966,5443
+636,200,750,15866,3919
+637,150,750,15766,1705
+638,100,750,15666,-315
+639,50,750,15766,-1720
+640,0,800,15866,-2579
+641,50,800,15966,-3151
+642,100,800,16066,-3535
+643,150,800,16166,-3523
+644,200,800,16266,-2752
+645,250,800,16366,-1049
+646,300,800,16466,1245
+647,350,800,16366,3373
+648,400,800,16266,4548
+649,450,800,16166,4388
+650,500,800,16066,3062
+651,550,800,15966,1221
+652,600,800,15866,-454
+653,650,800,15966,-1635
+654,700,800,16066,-2371
+655,750,800,16166,-2844
+656,800,800,16266,-2992
+657,850,800,16366,-1858
+658,900,800,16466,-1003
+659,950,800,16566,2445
+660,1000,800,16466,5854
+661,1050,800,16366,7784
+662,1100,800,16266,6833
+663,1150,800,16166,5341
+664,1200,800,16066,3494
+665,1250,800,15966,1571
+666,1300,800,15866,31
+667,1350,800,15966,-959
+668,1400,800,16066,-1597
+669,1450,800,16166,-2063
+670,1500,800,16266,-2351
+671,1550,800,16366,-2301
+672,1600,800,16466,-1784
+673,1650,800,16566,-719
+674,1700,800,16666,885
+675,1750,800,16566,2474
+676,1800,800,16466,3452
+677,1850,800,16366,3407
+678,1900,800,16266,2443
+679,1950,800,16166,1033
+680,2000,850,16066,-287
+681,1950,850,16166,-1228
+682,1900,850,16266,-1792
+683,1850,850,16366,-2140
+684,1800,850,16466,-2356
+685,1750,850,16566,-2327
+686,1700,850,16666,-1814
+687,1650,850,16766,-696
+688,1600,850,16866,822
+689,1550,850,16766,2326
+690,1500,850,16666,3353
+691,1450,850,16566,4186
+692,1400,850,16466,4522
+693,1350,850,16366,7299
+694,1300,850,16266,6546
+695,1250,850,16166,6259
+696,1200,850,16066,4478
+697,1150,850,15966,2170
+698,1100,850,15866,340
+699,1050,850,15946,-346
+700,1000,850,16046,-250
+701,950,850,16146,554
+702,900,850,16119,2235
+703,850,850,16019,5643
+704,800,850,15919,14083
+705,750,850,15819,27955
+706,700,850,15719,25787
+707,650,850,15619,24693
+708,600,850,15519,16539
+709,550,850,15419,7650
+710,500,850,15319,3283
+711,450,850,15219,11164
+712,400,850,15119,24876
+713,350,850,15019,24358
+714,300,850,14919,19592
+715,250,850,14819,10620
+716,200,850,14719,7792
+717,150,850,14619,6313
+718,100,850,14519,4172
+719,50,850,14419,1514
+720,0,900,14319,-553
+721,50,900,14419,-1214
+722,100,900,14519,-715
+723,150,900,14619,-117
+724,200,900,14719,-388
+725,250,900,14819,-1603
+726,300,900,14919,-2864
+727,350,900,15019,-3005
+728,400,900,15119,-1509
+729,450,900,15219,1003
+730,500,900,15119,3162
+731,550,900,15019,3796
+732,600,900,14919,2746
+733,650,900,14819,851
+734,700,900,14719,-658
+735,750,900,14819,-1044
+736,800,900,14919,-558
+737,850,900,15019,-114
+738,900,900,15119,-466
+739,950,900,15219,-1568
+740,1000,900,15319,-2589
+741,1050,900,15419,-2559
+742,1100,900,15519,-1127
+743,1150,900,15619,1073
+744,1200,900,15519,2843
+745,1250,900,15419,3246
+746,1300,900,15319,2250
+747,1350,900,15219,627
+748,1400,900,15156,-583
+749,1450,900,15256,-831
+750,1500,900,15356,-409
+751,1550,900,15456,-112
+752,1600,900,15556,-519
+753,1650,900,15656,-1503
+754,1700,900,15756,-2313
+755,1750,900,15856,-2153
+756,1800,900,15956,-810
+757,1850,900,16056,1094
+758,1900,900,15956,2524
+759,1950,900,15856,2750
+760,2000,950,15756,1828
+761,1950,950,15656,456
+762,1900,950,15678,-502
+763,1850,950,15778,-647
+764,1800,950,15878,-293
+765,1750,950,15978,-117
+766,1700,950,16078,-552
+767,1650,950,16178,-1414
+768,1600,950,16278,-2040
+769,1550,950,16378,-1786
+770,1500,950,16478,-551
+771,1450,950,16578,1074
+772,1400,950,16478,2210
+773,1350,950,16378,2303
+774,1300,950,16278,1470
+775,1250,950,16178,327
+776,1200,950,16264,-417
+777,1150,950,16364,-489
+778,1100,950,16464,-205
+779,1050,950,16564,-128
+780,1000,950,16664,-566
+781,950,950,16764,-1307
+782,900,950,16864,-1772
+783,850,950,16964,-1458
+784,800,950,17064,-346
+785,750,950,17164,1018
+786,700,950,17064,1902
+787,650,950,16964,1900
+788,600,950,16864,1168
+789,550,950,16764,234
+790,500,950,16864,-333
+791,450,950,16964,-356
+792,400,950,17064,-140
+793,350,950,17164,-139
+794,300,950,17264,-563
+795,250,950,17364,-1183
+796,200,950,17464,-1513
+797,150,950,17564,-1168
+798,100,950,17664,-188
+799,50,950,17764,934
+800,0,1000,17664,1604
+801,50,1000,17564,1541
+802,100,1000,17464,915
+803,150,1000,17364,169
+804,200,1000,17464,-251
+805,250,1000,17564,-246
+806,300,1000,17664,-92
+807,350,1000,17764,-148
+808,400,1000,17864,-541
+809,450,1000,17964,-1047
+810,500,1000,18064,-1265
+811,550,1000,18164,-914
+812,600,1000,18264,-74
+813,650,1000,18364,826
+814,700,1000,18264,1318
+815,750,1000,18164,1222
+816,800,1000,18064,704
+817,850,1000,17964,126
+818,900,1000,18064,-174
+819,950,1000,18164,-154
+820,1000,1000,18264,-56
+821,1050,1000,18364,-151
+822,1100,1000,18464,-502
+823,1150,1000,18564,-900
+824,1200,1000,18664,-1030
+825,1250,1000,18764,-695
+826,1300,1000,18864,1
+827,1350,1000,18964,701
+828,1400,1000,18864,1047
+829,1450,1000,18764,941
+830,1500,1000,18664,530
+831,1550,1000,18649,101
+832,1600,1000,18749,-103
+833,1650,1000,18849,-80
+834,1700,1000,18949,-31
+835,1750,1000,19049,-149
+836,1800,1000,19149,-448
+837,1850,1000,19249,-748
+838,1900,1000,19349,-811
+839,1950,1000,19449,-510
+840,2000,1050,19549,43
+841,1950,1050,19649,563
+842,1900,1050,19618,793
+843,1850,1050,19518,695
+844,1800,1050,19421,390
+845,1750,1050,19476,89
+846,1700,1050,19576,-39
+847,1650,1050,19676,-21
+848,1600,1050,19776,-12
+849,1550,1050,19876,-137
+850,1500,1050,19976,-380
+851,1450,1050,20076,-592
+852,1400,1050,20176,-607
+853,1350,1050,20276,-351
+854,1300,1050,20376,68
+855,1250,1050,20476,432
+856,1200,1050,20510,571
+857,1150,1050,20475,511
+858,1100,1050,20470,346
+859,1050,1050,20547,297
+860,1000,1050,20647,173
+861,950,1050,20747,158
+862,900,1050,20847,108
+863,850,1050,20947,-14
+864,800,1050,21047,68
+865,750,1050,21147,4894
+866,700,1050,21047,6149
+867,650,1050,20947,5427
+868,600,1050,20847,13689
+869,550,1050,20747,11264
+870,500,1050,20647,10785
+871,450,1050,20547,12392
+872,400,1050,20447,25885
+873,350,1050,20347,25344
+874,300,1050,20247,25358
+875,250,1050,20147,25834
+876,200,1050,20047,26392
+877,150,1050,19947,26648
+878,100,1050,19847,26498
+879,50,1050,19747,26162
+880,0,1100,19647,25990
+881,50,1100,19547,26177
+882,100,1100,19447,26605
+883,150,1100,19347,26937
+884,200,1100,19247,26882
+885,250,1100,19147,20021
+886,300,1100,19047,10501
+887,350,1100,18947,5434
+888,400,1100,18847,4268
+889,450,1100,18747,4913
+890,500,1100,18647,8611
+891,550,1100,18547,13651
+892,600,1100,18447,13313
+893,650,1100,18347,9327
+894,700,1100,18247,4737
+895,750,1100,18147,2112
+896,800,1100,18047,851
+897,850,1100,17947,171
+898,900,1100,18047,-76
+899,950,1100,18147,156
+900,1000,1100,18247,735
+901,1050,1100,18147,1256
+902,1100,1100,18047,1371
+903,1150,1100,17947,955
+904,1200,1100,17847,189
+905,1250,1100,17947,-530
+906,1300,1100,18047,-861
+907,1350,1100,18147,-756
+908,1400,1100,18247,-455
+909,1450,1100,18347,-255
+910,1500,1100,18447,-287
+911,1550,1100,18547,-429
+912,1600,1100,18647,-400
+913,1650,1100,18747,-14
+914,1700,1100,18847,590
+915,1750,1100,18802,1102
+916,1800,1100,18702,1213
+917,1850,1100,18602,912
+918,1900,1100,18502,378
+919,1950,1100,18563,-261
