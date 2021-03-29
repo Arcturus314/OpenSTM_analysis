@@ -74,3 +74,7 @@ approachbuf.close()
 # now generating plots - we do this through calls to other python scripts which can be executed through the terminal
 
 os.system("python3 plotapproach.py " +approachfilename+" "+scandir)
+
+# assuming 2d scans for now...
+
+os.system("python3 plot2d.py "+scanfilename+" "+scandir)
