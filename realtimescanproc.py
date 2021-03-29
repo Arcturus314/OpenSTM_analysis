@@ -1,4 +1,8 @@
 import os
+import serial
+
+device_addr = "/dev/ttyACM0"
+device_baud  = 115200
 
 allscandir = "scans"
 
@@ -21,13 +25,12 @@ print("creating scan directory",scandir)
 
 os.mkdir(scandir)
 
-
+logfilename      = scandir+"/log.txt"
 scanfilename     = scandir+"/scan.txt"
 approachfilename = scandir+"/approach.txt"
+logbuf      = open(logfilename,"w")
 scanbuf     = open(scanfilename,"w")
 approachbuf = open(approachfilename,"w")
-
-# In reality, file parsing will be done with data received over serial. But we don't have that so will instead read from file
 
 scan_stage_dict = {
         "Dumping approach data...": "approachstart",
@@ -42,31 +45,34 @@ scantype = ""
 buf_approach = ""
 buf_scan = ""
 
-fname = "prevscans_fulllog/log3.csv"
 
-for line in open(fname):
-    # Next state logic: note that we also clear buffers here, as we only care about the last set of data included in the log file
+with serial.Serial(device_addr, device_baud) as ser:
+    while True:
 
-    for key in scan_stage_dict:
-        if key in line: # in a state transition
-            scanstage = scan_stage_dict[key]
-            if key == "approachstart":
-                buf_approach = "" # cleaning out data buffers - only care about last scan
-            if key == "scanstart":
-                buf_scan = "" # cleaning out data buffers - only care about last scan
-            continue # as no data, only state transition, on this line
+        line = ser.readline()
+        logbuf.write(line)
 
-    # Per-state logic
-    if scanstage == "start":
-        continue
-    elif scanstage == "approachstart":
-        approachbuf.write(line)
-    elif scanstage == "approachstop":
-        continue
-    elif scanstage == "scanstart":
-        scanbuf.write(line)
-    elif scanstage == "scanstop":
-        break
+        # Next state logic: note that we also clear buffers here, as we only care about the last set of data included in the log file
+        for key in scan_stage_dict:
+            if key in line: # in a state transition
+                scanstage = scan_stage_dict[key]
+                if key == "approachstart":
+                    buf_approach = "" # cleaning out data buffers - only care about last scan
+                if key == "scanstart":
+                    buf_scan = "" # cleaning out data buffers - only care about last scan
+                continue # as no data, only state transition, on this line
+
+        # Per-state logic
+        if scanstage == "start":
+            continue
+        elif scanstage == "approachstart":
+            approachbuf.write(line)
+        elif scanstage == "approachstop":
+            continue
+        elif scanstage == "scanstart":
+            scanbuf.write(line)
+        elif scanstage == "scanstop":
+            break
 
 scanbuf.close()
 approachbuf.close()
