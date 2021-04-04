@@ -1,5 +1,7 @@
 import os
 import serial
+import shutil
+import sys
 
 device_addr = "/dev/ttyACM0"
 device_baud  = 115200
@@ -37,7 +39,8 @@ scan_stage_dict = {
         "scanning in 2D": "approachstop",
         "scanning in 1D": "approachstop",
         "step,x,y,z,current": "scanstart",
-        "Returning":"scanstop"
+        "Returning":"scanstop",
+        "Finished scan, returned with code -1":"scanerr"
         }
 
 scanstage = "start"
@@ -49,7 +52,8 @@ buf_scan = ""
 with serial.Serial(device_addr, device_baud) as ser:
     while True:
 
-        line = ser.readline()
+        line = ser.readline().decode('utf-8')
+        print("-<serial>->",line,end="")
         logbuf.write(line)
 
         # Next state logic: note that we also clear buffers here, as we only care about the last set of data included in the log file
@@ -72,7 +76,14 @@ with serial.Serial(device_addr, device_baud) as ser:
         elif scanstage == "scanstart":
             scanbuf.write(line)
         elif scanstage == "scanstop":
+            print("Scan completed. Plotting...")
             break
+        elif scanstage == "scanerr":
+            print("Scan failed. Exiting...")
+            scanbuf.close()
+            approachbuf.close()
+            shutil.rmtree(scandir)
+            sys.exit()
 
 scanbuf.close()
 approachbuf.close()
