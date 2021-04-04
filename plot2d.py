@@ -63,7 +63,7 @@ fft = True
 if fft:
 
     currfft = fftpack.fft(current_log)
-    currfreqs = fftpack.fftfreq(len(current_log)) * 833
+    currfreqs = fftpack.fftfreq(len(current_log)) * 833 # really want to make this independent of scan freq
 
     plt.plot(currfreqs, np.abs(currfft), label="unfiltered", alpha=0.5)
     plt.xlabel("frequency")
